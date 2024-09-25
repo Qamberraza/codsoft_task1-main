@@ -1,1 +1,1 @@
-It's my first task as a intern in codsoft
+It's my first task as a web devloper intern in codsoft
